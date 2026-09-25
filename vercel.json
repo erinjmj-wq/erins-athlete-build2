@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/edb/:path*", "destination": "https://oss.exercisedb.dev/api/v1/:path*" }
+  ]
+}
